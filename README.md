@@ -1,6 +1,6 @@
-# Project Name- Edu-Acad
+# Project Name- EduAcad
 
-# Hackathon- Hack-O-Uplift
+# Hackathon- Nakshatra 
 
 # Our Aim
 Education is the process of learning and sharing. We, as an education platform provides recourses and abundant opportunities to students in almost every field from digital marketing to machine learning. We help that there is no more powerful tool than education. Education is the only weapon that can bring change in society. With this thought, we provide free resources and guide students across the platforms. Through this, we can make learning more easier and in an interesting way. We have made this website completely responsive so that students can easily view it on any screen.
@@ -18,7 +18,7 @@ We used VS code to develop the project
 We deployed our website on netlify so that it can easily be viewed.
 
 # To view our project live, click on the link below
-https://edu-acad.netlify.app/
+https://edu-cad.netlify.app/
 
 # Tech stacks that we used
 HTML, CSS, JavaScript
